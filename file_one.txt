@@ -6,3 +6,5 @@ Commit 2 - Branch A
 
 Commit 3 - Branch A
 Commit 4 - Branch A
+
+Commit 5 - Branch C
