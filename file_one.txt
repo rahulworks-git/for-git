@@ -3,3 +3,6 @@ This is my initial commit from the main branch.
 
 Commit 1 - Branch A
 Commit 2 - Branch A
+
+Commit 3 - Branch A
+Commit 4 - Branch A
