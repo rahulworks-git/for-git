@@ -1,3 +1,5 @@
 This is my initial commit from the main branch.
 
+
+This is my commit from Branch B
 I want to add this commit from Branch A
